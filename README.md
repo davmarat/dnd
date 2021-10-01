@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/287d85c9phho9f4a?svg=true)](https://ci.appveyor.com/project/davmarat/dnd-ufpef)
